@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c600fb3a-1516-4af9-b7a5-97a951593f4a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="179" />
+  </component>
+  <component name="ProjectId" id="1V8tbzFkkb8acg09uOF2SPHfHTI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lbbroker" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="LbZuulEurekaClientProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="LbZuulEurekaClientProducer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.app.LbZuulEurekaClientProducerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.LbZuulEurekaClientProducerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c600fb3a-1516-4af9-b7a5-97a951593f4a" name="Default Changelist" comment="" />
+      <created>1576646624571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576646624571</updated>
+      <workItem from="1576646630739" duration="4490000" />
+      <workItem from="1576734343224" duration="1200000" />
+      <workItem from="1576757264596" duration="1187000" />
+      <workItem from="1576824733438" duration="4165000" />
+      <workItem from="1576844341791" duration="590000" />
+      <workItem from="1577075216644" duration="1188000" />
+      <workItem from="1577076905639" duration="1403000" />
+      <workItem from="1577079664640" duration="810000" />
+      <workItem from="1577081439517" duration="3954000" />
+      <workItem from="1577164924247" duration="1064000" />
+      <workItem from="1577335759339" duration="723000" />
+      <workItem from="1577359325115" duration="1795000" />
+      <workItem from="1577423205148" duration="3510000" />
+      <workItem from="1577679609707" duration="245000" />
+      <workItem from="1577683935087" duration="2000" />
+      <workItem from="1577711853455" duration="636000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1577769879464">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577769879464" />
+    <state width="1323" height="289" key="GridCell.Tab.0.bottom" timestamp="1577713578018">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="289" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577713578018" />
+    <state width="1323" height="289" key="GridCell.Tab.0.center" timestamp="1577713578017">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="289" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577713578017" />
+    <state width="1323" height="289" key="GridCell.Tab.0.left" timestamp="1577713578017">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="289" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577713578017" />
+    <state width="1323" height="289" key="GridCell.Tab.0.right" timestamp="1577713578017">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="289" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577713578017" />
+    <state width="1323" height="289" key="GridCell.Tab.1.bottom" timestamp="1577713578018">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="289" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577713578018" />
+    <state width="1323" height="289" key="GridCell.Tab.1.center" timestamp="1577713578018">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="289" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577713578018" />
+    <state width="1323" height="289" key="GridCell.Tab.1.left" timestamp="1577713578018">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="289" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577713578018" />
+    <state width="1323" height="289" key="GridCell.Tab.1.right" timestamp="1577713578018">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="289" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577713578018" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1577164925652">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577164925652" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LbZuulEurekaClientProducer$LbZuulEurekaClientProducerApplication.ic" NAME="LbZuulEurekaClientProducerApplication Coverage Results" MODIFIED="1576825132618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
